@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  background-color: #eeeeee;
+
+  /* position: absolute;
+  bottom: 0; */
+
+  height: 200px;
+  width: 100%;
+
+  /* position: absolute;
+
+  bottom: 0;
+  width: 100%;
+  min-height: 150px; */
+  /* overflow: scroll; */
+}

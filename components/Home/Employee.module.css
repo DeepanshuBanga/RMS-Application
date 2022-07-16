@@ -1,0 +1,8 @@
+.employee {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.employee h2 {
+  text-align: center;
+}
